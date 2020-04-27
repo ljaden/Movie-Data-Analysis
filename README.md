@@ -13,6 +13,3 @@ Rough Outline:
     - What is the most popular movie genre?
     - What Genre bring the most Gross on average?
 
-
-
-    
